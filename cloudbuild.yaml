@@ -25,4 +25,5 @@ images:
  - 'us-central1-docker.pkg.dev/${_PROJECT_ID}/webdev-dockers/lab-cd'
 
 substitutions:
-  _PROJECT_ID: 'softwareconstructionevolution'
+  _PROJECT_ID: ''
+# softwareconstructionevolution
